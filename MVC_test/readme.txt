@@ -1,0 +1,1 @@
+主要测试mvc的基本流程,在test.php主页面上输出helloworld
