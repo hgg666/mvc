@@ -1,0 +1,16 @@
+demo是存放Smarty默认实例的文件夹
+
+smarty为Smarty所有配置为文件的文件夹
+在smarty下的plugins文件夹下编写了一个名为function.test.php的自定义function类型插件(用来计算矩形的面积),一个名为modifier.test.php的自定义modifier类型插件(用来返回当前的时间)modifier.test.php的自定义block类型插件(用来截取当前的语句和将语句中的中文和英文符号转换成英文的)
+
+test是本次测试Smarty的文件夹
+在test文件夹中
+test.php为主页
+cache为存放缓存文件的文件夹
+template_c为模板编译生成的文件所在的文件夹
+tpl为存放模板的文件夹
+其中test.tpl为测试Smarty的模板文件
+area.tpl为定义插件的模板文件
+area.tpl为测试自定义插件的模板文件
+datetime.tpl为测试变量调节器插件的模板文件
+block.test.tpl为测试区块插件的模板文件
