@@ -1,0 +1,4 @@
+MVC之smarty实例化
+function.php是用来初始化控制器,模型,视图的一个函数集合文件
+config.php是类文件的配置
+index.php为入口文件
